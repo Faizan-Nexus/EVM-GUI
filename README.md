@@ -8,10 +8,11 @@ Secure voting system with voter ID validation.
 Prevents duplicate voting.
 Real-time results display.
 GUI built with Java Swing.
-How to Run in BlueJ:
 
-Install BlueJ from bluej.org.
-Open the project folder in BlueJ.
-Right-click ElectionCommisionOFPakistan → Select Compile.
-Run the program by selecting void main(String[] args).
-This project is ideal for beginners learning Java GUI and object-oriented programming.
+How to Run in BlueJ:
+1.Install BlueJ from bluej.org.
+2.Open the project folder in BlueJ.
+3.Open the EVM.java file and Make a separate class of Main Method containing void main(String argsp[])
+4.Right-click ElectionCommisionOFPakistan → Select Compile.
+5.Run the program by selecting void main(String[] args).
+6.This project is ideal for beginners learning Java GUI and object-oriented programming.
